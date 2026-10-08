@@ -1,6 +1,6 @@
 # Savourly
 
-Food Recipe Explorer is a React Based Web Application design to provide users a simple and
+Savourly (A Food Recipe Explorer) is a React Based Web Application design to provide users a simple and
 interactive platform for exploring wide range of food varieties.
 
 The application allows users to explore food varieties across different cuisines, in each
