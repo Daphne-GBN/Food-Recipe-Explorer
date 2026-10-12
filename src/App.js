@@ -13,7 +13,7 @@ import SavedRecipes from "./pages/SavedRecipes";
 import AddRecipe from "./pages/AddRecipe";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-
+import FoodQuiz from "./pages/FoodQuiz";
 function App() {
   return (
     <BrowserRouter>
@@ -56,6 +56,7 @@ function App() {
             path="/contact"
             element={<Contact />}
           />
+          <Route path="/food-quiz" element={<FoodQuiz />} />
 
         </Routes>
       </main>
